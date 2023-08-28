@@ -1,7 +1,7 @@
 main {
     width: 100%;
     height: 100vh;
-    color: black;
+    color: white;
     background-color: lightblue;
     text-align: center;
 }
@@ -9,20 +9,20 @@ main {
 main h1 {
     margin: 0;
     font-size: 6rem;
-    color: gray;
+    color: white;
 }
 
 main h2 {
     font-size: 1.5rem;
-    color: gray;
+    color: white;
 }
 
 main button.i {
     background-color: transparent;
-    border: 1px solid gray;
+    border: 1px solid white;
     border-radius: 20px;
     padding: 0.3rem 0.3rem;
     margin-top: 2rem;
-    color: gray;
+    color: white;
     margin: 1.5rem;
 }
