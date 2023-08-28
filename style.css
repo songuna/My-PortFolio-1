@@ -24,15 +24,16 @@ main h2 {
 main button.i {
     background-color: transparent;
     border: 2px solid white;
-    border-radius: 20px;
-    padding: 0.3rem 0.3rem;
-    margin-top: 10rem;
-    font-weight: bold;
+    border-radius: 15px;
+    padding: 0.5rem;
+    font-size: 15px;
     color: white;
     margin: 2rem;
+    cursor: pointer;
 }
 
 main p {
     margin: 1.5rem;
     padding: 3%;
+
 }
