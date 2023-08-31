@@ -7,7 +7,7 @@ github.addEventListener("click", function () {
 })
 
 notion.addEventListener("click", function () {
-    window.location.href = '4knjjxfzvv@privaterelay.appleid.com'
+    window.location.href = 'https://www.notion.so/Chrome-Web-c8dbde14af604e2fa698c7b16619ac49?pvs=4'
 })
 
 portfolio.addEventListener("click", function () {
