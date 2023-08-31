@@ -7,7 +7,7 @@ github.addEventListener("click", function () {
 })
 
 notion.addEventListener("click", function () {
-    window.location.href = 'https://wistful-milk-580.notion.site/Chrome-Web-c8dbde14af604e2fa698c7b16619ac49?pvs=4'
+    window.location.href = 'https://wistful-milk-580.notion.site/b7a5a1cf139f4c69a327d87ef9417b6f?pvs=4'
 })
 
 portfolio.addEventListener("click", function () {
